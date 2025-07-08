@@ -1,0 +1,15 @@
+C:\Users\power\source\repos\Practice\programmers_numxnum\bin\Debug\net8.0\programmers_numxnum.exe
+C:\Users\power\source\repos\Practice\programmers_numxnum\bin\Debug\net8.0\programmers_numxnum.deps.json
+C:\Users\power\source\repos\Practice\programmers_numxnum\bin\Debug\net8.0\programmers_numxnum.runtimeconfig.json
+C:\Users\power\source\repos\Practice\programmers_numxnum\bin\Debug\net8.0\programmers_numxnum.dll
+C:\Users\power\source\repos\Practice\programmers_numxnum\bin\Debug\net8.0\programmers_numxnum.pdb
+C:\Users\power\source\repos\Practice\programmers_numxnum\obj\Debug\net8.0\programmers_numxnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\power\source\repos\Practice\programmers_numxnum\obj\Debug\net8.0\programmers_numxnum.AssemblyInfoInputs.cache
+C:\Users\power\source\repos\Practice\programmers_numxnum\obj\Debug\net8.0\programmers_numxnum.AssemblyInfo.cs
+C:\Users\power\source\repos\Practice\programmers_numxnum\obj\Debug\net8.0\programmers_numxnum.csproj.CoreCompileInputs.cache
+C:\Users\power\source\repos\Practice\programmers_numxnum\obj\Debug\net8.0\programmers_numxnum.sourcelink.json
+C:\Users\power\source\repos\Practice\programmers_numxnum\obj\Debug\net8.0\programmers_numxnum.dll
+C:\Users\power\source\repos\Practice\programmers_numxnum\obj\Debug\net8.0\refint\programmers_numxnum.dll
+C:\Users\power\source\repos\Practice\programmers_numxnum\obj\Debug\net8.0\programmers_numxnum.pdb
+C:\Users\power\source\repos\Practice\programmers_numxnum\obj\Debug\net8.0\programmers_numxnum.genruntimeconfig.cache
+C:\Users\power\source\repos\Practice\programmers_numxnum\obj\Debug\net8.0\ref\programmers_numxnum.dll

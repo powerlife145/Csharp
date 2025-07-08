@@ -1,0 +1,15 @@
+C:\Users\power\source\repos\Practice\Csharp_Practice\bin\Debug\net8.0\Csharp_Practice.exe
+C:\Users\power\source\repos\Practice\Csharp_Practice\bin\Debug\net8.0\Csharp_Practice.deps.json
+C:\Users\power\source\repos\Practice\Csharp_Practice\bin\Debug\net8.0\Csharp_Practice.runtimeconfig.json
+C:\Users\power\source\repos\Practice\Csharp_Practice\bin\Debug\net8.0\Csharp_Practice.dll
+C:\Users\power\source\repos\Practice\Csharp_Practice\bin\Debug\net8.0\Csharp_Practice.pdb
+C:\Users\power\source\repos\Practice\Csharp_Practice\obj\Debug\net8.0\Csharp_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\power\source\repos\Practice\Csharp_Practice\obj\Debug\net8.0\Csharp_Practice.AssemblyInfoInputs.cache
+C:\Users\power\source\repos\Practice\Csharp_Practice\obj\Debug\net8.0\Csharp_Practice.AssemblyInfo.cs
+C:\Users\power\source\repos\Practice\Csharp_Practice\obj\Debug\net8.0\Csharp_Practice.csproj.CoreCompileInputs.cache
+C:\Users\power\source\repos\Practice\Csharp_Practice\obj\Debug\net8.0\Csharp_Practice.sourcelink.json
+C:\Users\power\source\repos\Practice\Csharp_Practice\obj\Debug\net8.0\Csharp_Practice.dll
+C:\Users\power\source\repos\Practice\Csharp_Practice\obj\Debug\net8.0\refint\Csharp_Practice.dll
+C:\Users\power\source\repos\Practice\Csharp_Practice\obj\Debug\net8.0\Csharp_Practice.pdb
+C:\Users\power\source\repos\Practice\Csharp_Practice\obj\Debug\net8.0\Csharp_Practice.genruntimeconfig.cache
+C:\Users\power\source\repos\Practice\Csharp_Practice\obj\Debug\net8.0\ref\Csharp_Practice.dll
